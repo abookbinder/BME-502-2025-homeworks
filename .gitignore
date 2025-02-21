@@ -1,0 +1,5 @@
+#Ignore .toml Julia files
+*.toml
+
+#Ignore ipynb checkpoint files
+.ipynb_checkpoints
